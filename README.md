@@ -5,7 +5,7 @@
 A fully functional, voice-activated AI assistant inspired by Iron Man's J.A.R.V.I.S.
 Built with Python, this assistant features a futuristic **Holographic GUI**, **Computer Vision**, and **Real-time Web Search**.
 
-[Insert a Screenshot of your GUI here]
+
 
 ## 🚀 Features
 
@@ -15,19 +15,6 @@ Built with Python, this assistant features a futuristic **Holographic GUI**, **C
 * **⚛️ Holographic Interface:** A beautiful, animated Arc Reactor GUI built with CustomTkinter.
 * **🌐 Internet Access:** Can perform real-time Google/DuckDuckGo searches.
 * **💻 System Control:** Can open apps (Calculator, Notepad, etc.) and websites (YouTube, Google) via voice command.
-
-## 🛠️ Installation
-
-1.  **Clone the repository** (or download the zip):
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/Jarvis.git](https://github.com/YOUR_USERNAME/Jarvis.git)
-    cd Jarvis
-    ```
-
-2.  **Install the required libraries:**
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## 🔑 Configuration
 
